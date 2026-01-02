@@ -12,7 +12,7 @@ Proyek ini bertujuan untuk mengembangkan sistem **Ball Balancer** otomatis yang 
 *  **Software:** Arduino IDE & MATLAB (untuk visualisasi real-time)
 
 ## 📐 Konfigurasi PID
- Parameter PID yang digunakan dalam proyek ini adalah[cite: 193, 194, 195]:
+ Parameter PID yang digunakan dalam proyek ini adalah
 - **Kp (Proportional):** 19
 - **Ki (Integral):** 0.03
 - **Kd (Derivative):** 15
